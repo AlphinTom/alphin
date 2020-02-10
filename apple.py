@@ -1,4 +1,2 @@
-print("helloworld")
-print("ggggggggg")
-print("vhbjhjj")
-
+print("hhhfdsgjklkl")
+print("hhhhhhhh")
